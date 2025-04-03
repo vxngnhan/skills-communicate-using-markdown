@@ -8,6 +8,7 @@ Markdown giúp bạn định dạng văn bản dễ dàng hơn!
 - ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 - `Code inline`: sử dụng dấu backtick (`)
 
-```python
-# Code block
-print("Hello, Markdown!")
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
